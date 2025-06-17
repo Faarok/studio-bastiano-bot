@@ -16,15 +16,13 @@ async function verifyKey(body, signature, timestamp, publicKey) {
     const cryptoKey = await crypto.subtle.importKey(
         "raw",
         keyBuffer,
-        {
-            name: "NODE-ED25519",
-            namedCurve: "NODE-ED25519"
-        },
+        { name: "Ed25519" },
         false,
         ["verify"]
     );
 
-    return crypto.subtle.verify("NODE-ED25519", cryptoKey, signatureBuffer, data);
+
+    return crypto.subtle.verify("Ed25519", cryptoKey, signatureBuffer, data);
 }
 
 // Charge tes citations depuis JSON
