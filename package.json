@@ -12,5 +12,8 @@
     "description": "",
     "devDependencies": {
         "wrangler": "^4.20.0"
+    },
+    "dependencies": {
+        "discord.js": "^14.20.0"
     }
 }
