@@ -3,4 +3,3 @@ main = "src/index.js"
 compatibility_date = "2025-06-17"
 
 [vars]
-DISCORD_PUBLIC_KEY = "5e2d53c7917490784ac18626518fae546e884584e46fa25d2a2a81772565f9d1"
