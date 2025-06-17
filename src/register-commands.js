@@ -5,11 +5,11 @@ import 'dotenv/config';
 const commands = [
     {
         name: 'quote',
-        description: 'Envoie une citation aléatoire !',
+        description: 'Envoie une citation forte et persévérante.',
     },
 ];
 
-const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
+const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_BOT_TOKEN);
 
 rest.put(
     Routes.applicationGuildCommands(process.env.DISCORD_CLIENT_ID, process.env.DISCORD_GUILD_ID),
