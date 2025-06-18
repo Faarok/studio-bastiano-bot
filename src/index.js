@@ -53,7 +53,9 @@ export default {
 
         // Commande /quote
         if (interaction.type === 2 && interaction.data.name === 'quote') {
-            const quote = quotes[Math.floor(Math.random() * quotes.length)];
+            const index = crypto.getRandomValues(new Uint32Array(1))[0] % quotes.length;
+            const quote = quotes[index];
+
             return new Response(JSON.stringify({
                 type: 4,
                 data: { content: quote }
