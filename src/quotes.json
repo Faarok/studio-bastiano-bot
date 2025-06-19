@@ -1,219 +1,870 @@
 [
-    "Les hommes grimpent dans ce bolide, zig-zigounette au vent.",
-    "Transpercez la route, au volant d'un attrape-femmes.",
-    "Appuie-tête chauffant, zig-zigounette au vent.",
-    "Des rillettes Auchan.",
-    "Zig-zigounette au vent.",
-    "Increvable comme ma bite.",
-    "Les hommes grimpent dans ce bolide, les femmes grimpent aux rideaux.",
-    "Le confort moderne mérite le prix de votre sacrifice.",
-    "Direction Auchan, zigounette au vent.",
-    "Une voiture, ça se mérite.",
-    "Démarrer le SUV pour réveiller le quartier.",
-    "Manger du pâté sur un siège baquet.",
-    "Zigounette par-delà la vitre, la voisine parlera de ma bite.",
-    "Vous devriez aller chercher le pain plus souvent.",
-    "Un peu d'huile de coude. Hybride-moi les couilles.",
-    "Un peu d'huile de coude.",
-    "Hybride-moi les couilles.",
-    "J'ai une Kangoo quatre roues, mais j'ai jamais vu quatre kangourous roux.",
-    "Accélération en agglomération.",
-    "Pommeau de vitesse acheté chez Action.",
-    "Cramponne-toi à ton siège !",
-    "Appelle pas ta mère !",
-    "C'est parti !",
-    "J'envoie la fumée !",
-    "Attention au virage...",
-    "Pistolet à billes et grosses peluches.",
-    "15 euros la partie, avec ta greluche.",
-    "Frappe dans la machine à coups de poing.",
-    "Si t'es fragile, j'te donne un coup d'main.",
-    "Accroche-toi à ton calbard.",
-    "Pas d'alcool dans l'auto.",
-    "La fête foraine sur la place du village.",
-    "Prends de la vitesse.",
-    "Accroche-toi au siège.",
-    "T'as perdu ta culotte dans le train fantôme ?",
-    "Interdit aux femmes enceintes.",
-    "Sensations fortes assurées.",
-    "Il reste du vomi dans le tunnel.",
-    "Chichis et pommes d'amour.",
-    "Attractions qui décoiffent la moule.",
-    "À gagner : une paire de jumelles !",
-    "Tire sur les ballons, mais pas ceux de ma femme.",
-    "C'est reparti pour un tour !",
-    "Gin tonic pendant que Jim te nique.",
-    "Force et persévérance.",
-    "C'est métaphysique.",
-    "One, two, three, fo-force et persévérance.",
-    "Je rentre dans ton boule avec aisance !",
-    "Accro à la dopamine, je m'enfile de la viande blanche comme dans la cocaïne.",
-    "Plus de muscles ? Impossible.",
-    "Elle m'appelle tout Terminator.",
-    "T-shirt Studio Bastiano inébranlable, mais branle-moi quand même.",
-    "Cheat meal au Buffalo Grill.",
-    "Soulever de terre ? Soulever ta mère, pendant que je fais de la musculation.",
-    "Dou-dou-dou-douze répétitions.",
-    "Impossible de faire des puzzles pendant que je fais de la musculation.",
-    "Protéines protéinées pour ta copine cokéifiée.",
-    "Traces de fesses sur les machines.",
-    "La transpiration fait que dégouliner.",
-    "Pompes et tractions, un véritable attrape-fion.",
-    "Douze répétitions, tu vas en chier, t'as signé la pétition.",
-    "Bivouac en sueur.",
-    "J'ai vidé la gourde en te regardant.",
-    "Je fais pas du golf, mais j'utilise le club de gym.",
-    "300 kilos sur deux doigts, tu veux faire la bagarre ? T'es sûr de toi ?",
-    "Le Texas, mais à côté de la maison, c'est pratique !",
-    "Steak de crocodile.",
-    "Steak de tortue !",
-    "Entrecôte, entre potes.",
-    "Sandwich à la viande entre deux viandes.",
-    "Garez le Scénic devant le Buffalo Grill.",
-    "Rendez-vous à midi pétantes au Buffalo Grill.",
-    "J'ai commandé une vache entière sur Uber Eats.",
-    "Sandwich à la viande entre deux viandes, avec un supplément pomme de steak.",
-    "Anniversaire au Buffalo.",
-    "Steak de loup.",
-    "Steak d'aigle.",
-    "Vérandaaaaa pergolaaaaaa !",
-    "Cherche-moi dans les graviers, sous la véranda de Xavier.",
-    "Perdre la véranda.",
-    "Je suis le père de Lola et Miranda.",
-    "Un Breizh cola sous la pergola, on va se protéger des UV.",
-    "J'ai les doigts qui collent.",
-    "Les enfants sont à l'école.",
-    "Colle. Colle. Colle.",
-    "J'ai vu Sylvie à midi, sous la véranda.",
-    "Je te ressers un Breizh cola ?",
-    "Zib-zibounette au blibl.",
-    "Une pause toutes les quatre heures.",
-    "Direction l'extase, une pause toutes les quatre heures.",
-    "En Renault Espace, des gros loups sur le débardeur.",
-    "Des aigles surveillent les loups, les aigles sont des protecteurs.",
-    "Ils l'ont dit à la télé.",
-    "Pied au plancher en claquettes.",
-    "Parc Aqualand.",
-    "Direction le cul de Roland.",
-    "Les femmes que je me tape : une grosse toutes les quatre heures.",
-    "Direction Aqualand.",
-    "Sors la glacière ! T'attends quoi ? L'ère glaciaire ?",
-    "Des fois j'crois que j'bande.",
-    "Et l'Espagne, c'est une turlute pour la quatre.",
-    "Ricard avec modération, une pause toutes les quatre heures.",
-    "Profite, appelle ta sœur !",
-    "Sandwich avec conservateurs, une pause toutes les quatre heures !",
-    "Ma femme se plaint tous les quarts d'heure. J'ai besoin d'une pause tous les quarts d'heure.",
-    "Y a plus de batterie dans la tablette.",
-    "Les enfants, on arrive dans moins de quatre heures.",
-    "J'ai envie de faire pipi.",
-    "On fait qu'une pause, toutes les quatre heures !",
-    "Je sécurise mon habitat.",
-    "Je sécurise mon habitat pour impressionner la secrétaire.",
-    "J'ai le parfum rillette.",
-    "Lecteur CD.",
-    "Décapotable rangée dans le pavillon.",
-    "Je sécurise ma décapotable.",
-    "Parce qu'il a pas investi dans la bonne tondeuse, il est pauvre.",
-    "Mon jardin a un abri. C'est un abri de jardin.",
-    "Je me lève une heure avant mon voisin.",
-    "Pavillon sécurisé par caméra et système à la pointe.",
-    "Ferme les yeux, et que ton initiation commence.",
-    "Trois fois sans frais !",
-    "Parasol chauffant, bien évidemment.",
-    "C'est comme si c'était fait.",
-    "Mais reste dans le contrôle.",
-    "Chez Mr. Bricolage : tondeuse multifunction.",
-    "Carte de crédit conso validée.",
-    "Et la carte marche toujours.",
-    "Un jour, vous ferez le pèlerinage.",
-    "Multifunction !",
-    "Quatre fois sans frais chez Leroy Merlin.",
-    "Bip bip, je sors la carte de crédit conso.",
-    "Le terrarium chez Jardiland, bien évidemment.",
-    "Tondeuse multifunction.",
-    "Le Thermomix indique l'heure, c'est pratique.",
-    "Nouveau robot cuiseur Thermomix : il demeure l'un des robots cuiseurs les plus chers du marché.",
-    "Et vu le prix du Thermomix, tu vas me faire de la purée.",
-    "Grâce à une connexion Wi-Fi intégrée...",
-    "Des Thermomix dans le Thermomix.",
-    "Thermomix...",
-    "Thermomix en promotion chez Lidl.",
-    "Au prix de 1 299 €, vendu uniquement sur démonstration à domicile.",
-    "Du steak dans le Thermomix, merci chérie pour le velouté.",
-    "Merci chérie pour le velouté.",
-    "Tu l'as voulu ton Thermomix, alors fais à manger.",
-    "Thermomix dans le placard, Thermomix pour faire un quatre-quarts.",
-    "Et vu le prix du Thermomix, on partira en vacances avec le Thermomix.",
-    "Thermomix en pendentif.",
-    "Y a une place pour le Thermomix dans le canapé.",
-    "Thermomix multifunction.",
-    "T'as le Thermomix facile ce soir...",
-    "Merci pour le Thermomix.",
-    "Des pastèques dans le Thermomix.",
-    "Thermomix et bac récupérateur de gras.",
-    "Vidangé le Thermomix chez le garagiste.",
-    "Dans la cuisine, il y a un poster de Thermomix.",
-    "Et même 200 recettes gratuites disponibles dans l'onglet « Collection ». Pour débloquer les 500 recettes du véhicule, il faut souscrire à un abonnement de 36 € par an.",
-    "Le magazine de tuning de caisse de voiture.",
-    "Devant le Lidl de Tourcoing, on va faire des tours de ronds-points.",
-    "Extra méga tuning.",
-    "100 % tuning.",
-    "Prends la route, masse ma biroute.",
-    "Route. Route. Route. Route. Route. Route. Route. Rout-biroute.",
-    "Prends la route.",
-    "Dégueule pas sur l'appuie-tête.",
-    "Prout. Prout. Prout. Prout. Le magazine de tuning de caisse de voiture.",
-    "Extra méga giga ultra tuning.",
-    "Le magazine où il y a du tuning et des gros seins.",
-    "Seins. Seins. Seins. Seins. Seins. Seins. Seins. Gros seins.",
-    "Ma femme est extra conne. Ma caisse est en carbone.",
-    "Extra-extra-extra-extra-extra-extra-extra-gros seins.",
-    "Extra-extra-extra-extra-extra-extra-prends la route.",
-    "Direction le camping du bonheur, oublie pas ton débardeur.",
-    "STUDIO BASTIANO CORE",
-    "T'étais là quand j'pleurais comme un lâche.",
-    "Je t'emmène loin d'ici, monte.",
-    "Escalade la montagne de mon cul, pour voir s'il y a du monde.",
-    "Tire la chasse, tu perds ma trace.",
-    "Monte ! Le kiff, ça se provoque.",
-    "Un plaisir plaisant !",
-    "T'es perdu dans ta vie ? Suis les aigles.",
-    "VIVA BASTIANO",
-    "Hyperespace, quand j'tire la chiasse.",
-    "Brise les règles.",
-    "Direction l'interdimensfion.",
-    "J'peux pas m'empêcher d'penser à ton fiak.",
-    "La nuit, quand je roule vers l'infini et que la ville s'endort.",
-    "Détends-toi et lâche des caisses.",
-    "Accoudé au bar, ça renifle la bonne occasion.",
-    "Sens mes aisselles, odeur faisselle.",
-    "Je t'aime au futur, au passé et au présent. Le kiff est présent.",
-    "Ça sent super fort. Ça s'ambiance à fond.",
-    "Je sors de l'Ibis, ça sent la chaise.",
-    "Je suis en super forme.",
-    "Parfum Scorpio. Parfum tigre.",
-    "Parfum tigre, pipi de félin.",
-    "Dans la Passat, elle utilise ses mains. Passage de vitesse.",
-    "Parfum tigre. Ça sent la braise.",
-    "Y a d'la condensation.",
-    "Je suis pas sage.",
-    "Une odeur à couper le souffle.",
-    "Ça sent la fraise.",
-    "Parfum tigre !",
-    "Parfum tigre, pour les grandes occasions.",
-    "Parfum Scorpio pour ramener la secrétaire.",
-    "Ça respire l'intelligence ou quoi.",
-    "Le kiff est présent.",
-    "Noël et jour de l'An : célébration.",
-    "Studio Bastiano pour impressionner la secrétaire.",
-    "Je t'ai même ramené des croissants.",
-    "Je te récupère derrière le magasin Gifi.",
-    "Brocante des magasins hi-fi.",
-    "Passage de vitesse.",
-    "Des idées, je gémis.",
-    "Ça sent la braise.",
-    "C'est une boîte à bijoux ici ou quoi.",
-    "Après l'effort, le Roquefort.",
-    "Passat sécurisée avec Véro bien déguisée."
+    {
+        "id": 1,
+        "text": "Les hommes grimpent dans ce bolide, zig-zigounette au vent."
+    },
+    {
+        "id": 2,
+        "text": "Transpercez la route, au volant d'un attrape-femmes."
+    },
+    {
+        "id": 3,
+        "text": "Appuie-tête chauffant, zig-zigounette au vent."
+    },
+    {
+        "id": 4,
+        "text": "Des rillettes Auchan."
+    },
+    {
+        "id": 5,
+        "text": "Zig-zigounette au vent."
+    },
+    {
+        "id": 6,
+        "text": "Increvable comme ma bite."
+    },
+    {
+        "id": 7,
+        "text": "Les hommes grimpent dans ce bolide, les femmes grimpent aux rideaux."
+    },
+    {
+        "id": 8,
+        "text": "Le confort moderne mérite le prix de votre sacrifice."
+    },
+    {
+        "id": 9,
+        "text": "Direction Auchan, zigounette au vent."
+    },
+    {
+        "id": 10,
+        "text": "Une voiture, ça se mérite."
+    },
+    {
+        "id": 11,
+        "text": "Démarrer le SUV pour réveiller le quartier."
+    },
+    {
+        "id": 12,
+        "text": "Manger du pâté sur un siège baquet."
+    },
+    {
+        "id": 13,
+        "text": "Zigounette par-delà la vitre, la voisine parlera de ma bite."
+    },
+    {
+        "id": 14,
+        "text": "Vous devriez aller chercher le pain plus souvent."
+    },
+    {
+        "id": 15,
+        "text": "Un peu d'huile de coude. Hybride-moi les couilles."
+    },
+    {
+        "id": 16,
+        "text": "Un peu d'huile de coude."
+    },
+    {
+        "id": 17,
+        "text": "Hybride-moi les couilles."
+    },
+    {
+        "id": 18,
+        "text": "J'ai une Kangoo quatre roues, mais j'ai jamais vu quatre kangourous roux."
+    },
+    {
+        "id": 19,
+        "text": "Accélération en agglomération."
+    },
+    {
+        "id": 20,
+        "text": "Pommeau de vitesse acheté chez Action."
+    },
+    {
+        "id": 21,
+        "text": "Cramponne-toi à ton siège !"
+    },
+    {
+        "id": 22,
+        "text": "Appelle pas ta mère !"
+    },
+    {
+        "id": 23,
+        "text": "C'est parti !"
+    },
+    {
+        "id": 24,
+        "text": "J'envoie la fumée !"
+    },
+    {
+        "id": 25,
+        "text": "Attention au virage..."
+    },
+    {
+        "id": 26,
+        "text": "Pistolet à billes et grosses peluches."
+    },
+    {
+        "id": 27,
+        "text": "15 euros la partie, avec ta greluche."
+    },
+    {
+        "id": 28,
+        "text": "Frappe dans la machine à coups de poing."
+    },
+    {
+        "id": 29,
+        "text": "Si t'es fragile, j'te donne un coup d'main."
+    },
+    {
+        "id": 30,
+        "text": "Accroche-toi à ton calbard."
+    },
+    {
+        "id": 31,
+        "text": "Pas d'alcool dans l'auto."
+    },
+    {
+        "id": 32,
+        "text": "La fête foraine sur la place du village."
+    },
+    {
+        "id": 33,
+        "text": "Prends de la vitesse."
+    },
+    {
+        "id": 34,
+        "text": "Accroche-toi au siège."
+    },
+    {
+        "id": 35,
+        "text": "T'as perdu ta culotte dans le train fantôme ?"
+    },
+    {
+        "id": 36,
+        "text": "Interdit aux femmes enceintes."
+    },
+    {
+        "id": 37,
+        "text": "Sensations fortes assurées."
+    },
+    {
+        "id": 38,
+        "text": "Il reste du vomi dans le tunnel."
+    },
+    {
+        "id": 39,
+        "text": "Chichis et pommes d'amour."
+    },
+    {
+        "id": 40,
+        "text": "Attractions qui décoiffent la moule."
+    },
+    {
+        "id": 41,
+        "text": "À gagner : une paire de jumelles !"
+    },
+    {
+        "id": 42,
+        "text": "Tire sur les ballons, mais pas ceux de ma femme."
+    },
+    {
+        "id": 43,
+        "text": "C'est reparti pour un tour !"
+    },
+    {
+        "id": 44,
+        "text": "Gin tonic pendant que Jim te nique."
+    },
+    {
+        "id": 45,
+        "text": "Force et persévérance."
+    },
+    {
+        "id": 46,
+        "text": "C'est métaphysique."
+    },
+    {
+        "id": 47,
+        "text": "One, two, three, fo-force et persévérance."
+    },
+    {
+        "id": 48,
+        "text": "Je rentre dans ton boule avec aisance !"
+    },
+    {
+        "id": 49,
+        "text": "Accro à la dopamine, je m'enfile de la viande blanche comme dans la cocaïne."
+    },
+    {
+        "id": 50,
+        "text": "Plus de muscles ? Impossible."
+    },
+    {
+        "id": 51,
+        "text": "Elle m'appelle tout Terminator."
+    },
+    {
+        "id": 52,
+        "text": "T-shirt Studio Bastiano inébranlable, mais branle-moi quand même."
+    },
+    {
+        "id": 53,
+        "text": "Cheat meal au Buffalo Grill."
+    },
+    {
+        "id": 54,
+        "text": "Soulever de terre ? Soulever ta mère, pendant que je fais de la musculation."
+    },
+    {
+        "id": 55,
+        "text": "Dou-dou-dou-douze répétitions."
+    },
+    {
+        "id": 56,
+        "text": "Impossible de faire des puzzles pendant que je fais de la musculation."
+    },
+    {
+        "id": 57,
+        "text": "Protéines protéinées pour ta copine cokéifiée."
+    },
+    {
+        "id": 58,
+        "text": "Traces de fesses sur les machines."
+    },
+    {
+        "id": 59,
+        "text": "La transpiration fait que dégouliner."
+    },
+    {
+        "id": 60,
+        "text": "Pompes et tractions, un véritable attrape-fion."
+    },
+    {
+        "id": 61,
+        "text": "Douze répétitions, tu vas en chier, t'as signé la pétition."
+    },
+    {
+        "id": 62,
+        "text": "Bivouac en sueur."
+    },
+    {
+        "id": 63,
+        "text": "J'ai vidé la gourde en te regardant."
+    },
+    {
+        "id": 64,
+        "text": "Je fais pas du golf, mais j'utilise le club de gym."
+    },
+    {
+        "id": 65,
+        "text": "300 kilos sur deux doigts, tu veux faire la bagarre ? T'es sûr de toi ?"
+    },
+    {
+        "id": 66,
+        "text": "Le Texas, mais à côté de la maison, c'est pratique !"
+    },
+    {
+        "id": 67,
+        "text": "Steak de crocodile."
+    },
+    {
+        "id": 68,
+        "text": "Steak de tortue !"
+    },
+    {
+        "id": 69,
+        "text": "Entrecôte, entre potes."
+    },
+    {
+        "id": 70,
+        "text": "Sandwich à la viande entre deux viandes."
+    },
+    {
+        "id": 71,
+        "text": "Garez le Scénic devant le Buffalo Grill."
+    },
+    {
+        "id": 72,
+        "text": "Rendez-vous à midi pétantes au Buffalo Grill."
+    },
+    {
+        "id": 73,
+        "text": "J'ai commandé une vache entière sur Uber Eats."
+    },
+    {
+        "id": 74,
+        "text": "Sandwich à la viande entre deux viandes, avec un supplément pomme de steak."
+    },
+    {
+        "id": 75,
+        "text": "Anniversaire au Buffalo."
+    },
+    {
+        "id": 76,
+        "text": "Steak de loup."
+    },
+    {
+        "id": 77,
+        "text": "Steak d'aigle."
+    },
+    {
+        "id": 78,
+        "text": "Vérandaaaaa pergolaaaaaa !"
+    },
+    {
+        "id": 79,
+        "text": "Cherche-moi dans les graviers, sous la véranda de Xavier."
+    },
+    {
+        "id": 80,
+        "text": "Perdre la véranda."
+    },
+    {
+        "id": 81,
+        "text": "Je suis le père de Lola et Miranda."
+    },
+    {
+        "id": 82,
+        "text": "Un Breizh cola sous la pergola, on va se protéger des UV."
+    },
+    {
+        "id": 83,
+        "text": "J'ai les doigts qui collent."
+    },
+    {
+        "id": 84,
+        "text": "Les enfants sont à l'école."
+    },
+    {
+        "id": 85,
+        "text": "Colle. Colle. Colle."
+    },
+    {
+        "id": 86,
+        "text": "J'ai vu Sylvie à midi, sous la véranda."
+    },
+    {
+        "id": 87,
+        "text": "Je te ressers un Breizh cola ?"
+    },
+    {
+        "id": 88,
+        "text": "Zib-zibounette au blibl."
+    },
+    {
+        "id": 89,
+        "text": "Une pause toutes les quatre heures."
+    },
+    {
+        "id": 90,
+        "text": "Direction l'extase, une pause toutes les quatre heures."
+    },
+    {
+        "id": 91,
+        "text": "En Renault Espace, des gros loups sur le débardeur."
+    },
+    {
+        "id": 92,
+        "text": "Des aigles surveillent les loups, les aigles sont des protecteurs."
+    },
+    {
+        "id": 93,
+        "text": "Ils l'ont dit à la télé."
+    },
+    {
+        "id": 94,
+        "text": "Pied au plancher en claquettes."
+    },
+    {
+        "id": 95,
+        "text": "Parc Aqualand."
+    },
+    {
+        "id": 96,
+        "text": "Direction le cul de Roland."
+    },
+    {
+        "id": 97,
+        "text": "Les femmes que je me tape : une grosse toutes les quatre heures."
+    },
+    {
+        "id": 98,
+        "text": "Direction Aqualand."
+    },
+    {
+        "id": 99,
+        "text": "Sors la glacière ! T'attends quoi ? L'ère glaciaire ?"
+    },
+    {
+        "id": 100,
+        "text": "Des fois j'crois que j'bande."
+    },
+    {
+        "id": 101,
+        "text": "Et l'Espagne, c'est une turlute pour la quatre."
+    },
+    {
+        "id": 102,
+        "text": "Ricard avec modération, une pause toutes les quatre heures."
+    },
+    {
+        "id": 103,
+        "text": "Profite, appelle ta sœur !"
+    },
+    {
+        "id": 104,
+        "text": "Sandwich avec conservateurs, une pause toutes les quatre heures !"
+    },
+    {
+        "id": 105,
+        "text": "Ma femme se plaint tous les quarts d'heure. J'ai besoin d'une pause tous les quarts d'heure."
+    },
+    {
+        "id": 106,
+        "text": "Y a plus de batterie dans la tablette."
+    },
+    {
+        "id": 107,
+        "text": "Les enfants, on arrive dans moins de quatre heures."
+    },
+    {
+        "id": 108,
+        "text": "J'ai envie de faire pipi."
+    },
+    {
+        "id": 109,
+        "text": "On fait qu'une pause, toutes les quatre heures !"
+    },
+    {
+        "id": 110,
+        "text": "Je sécurise mon habitat."
+    },
+    {
+        "id": 111,
+        "text": "Je sécurise mon habitat pour impressionner la secrétaire."
+    },
+    {
+        "id": 112,
+        "text": "J'ai le parfum rillette."
+    },
+    {
+        "id": 113,
+        "text": "Lecteur CD."
+    },
+    {
+        "id": 114,
+        "text": "Décapotable rangée dans le pavillon."
+    },
+    {
+        "id": 115,
+        "text": "Je sécurise ma décapotable."
+    },
+    {
+        "id": 116,
+        "text": "Parce qu'il a pas investi dans la bonne tondeuse, il est pauvre."
+    },
+    {
+        "id": 117,
+        "text": "Mon jardin a un abri. C'est un abri de jardin."
+    },
+    {
+        "id": 118,
+        "text": "Je me lève une heure avant mon voisin."
+    },
+    {
+        "id": 119,
+        "text": "Pavillon sécurisé par caméra et système à la pointe."
+    },
+    {
+        "id": 120,
+        "text": "Ferme les yeux, et que ton initiation commence."
+    },
+    {
+        "id": 121,
+        "text": "Trois fois sans frais !"
+    },
+    {
+        "id": 122,
+        "text": "Parasol chauffant, bien évidemment."
+    },
+    {
+        "id": 123,
+        "text": "C'est comme si c'était fait."
+    },
+    {
+        "id": 124,
+        "text": "Mais reste dans le contrôle."
+    },
+    {
+        "id": 125,
+        "text": "Chez Mr. Bricolage : tondeuse multifunction."
+    },
+    {
+        "id": 126,
+        "text": "Carte de crédit conso validée."
+    },
+    {
+        "id": 127,
+        "text": "Et la carte marche toujours."
+    },
+    {
+        "id": 128,
+        "text": "Un jour, vous ferez le pèlerinage."
+    },
+    {
+        "id": 129,
+        "text": "Multifunction !"
+    },
+    {
+        "id": 130,
+        "text": "Quatre fois sans frais chez Leroy Merlin."
+    },
+    {
+        "id": 131,
+        "text": "Bip bip, je sors la carte de crédit conso."
+    },
+    {
+        "id": 132,
+        "text": "Le terrarium chez Jardiland, bien évidemment."
+    },
+    {
+        "id": 133,
+        "text": "Tondeuse multifunction."
+    },
+    {
+        "id": 134,
+        "text": "Le Thermomix indique l'heure, c'est pratique."
+    },
+    {
+        "id": 135,
+        "text": "Nouveau robot cuiseur Thermomix : il demeure l'un des robots cuiseurs les plus chers du marché."
+    },
+    {
+        "id": 136,
+        "text": "Et vu le prix du Thermomix, tu vas me faire de la purée."
+    },
+    {
+        "id": 137,
+        "text": "Grâce à une connexion Wi-Fi intégrée..."
+    },
+    {
+        "id": 138,
+        "text": "Des Thermomix dans le Thermomix."
+    },
+    {
+        "id": 139,
+        "text": "Thermomix..."
+    },
+    {
+        "id": 140,
+        "text": "Thermomix en promotion chez Lidl."
+    },
+    {
+        "id": 141,
+        "text": "Au prix de 1 299 €, vendu uniquement sur démonstration à domicile."
+    },
+    {
+        "id": 142,
+        "text": "Du steak dans le Thermomix, merci chérie pour le velouté."
+    },
+    {
+        "id": 143,
+        "text": "Merci chérie pour le velouté."
+    },
+    {
+        "id": 144,
+        "text": "Tu l'as voulu ton Thermomix, alors fais à manger."
+    },
+    {
+        "id": 145,
+        "text": "Thermomix dans le placard, Thermomix pour faire un quatre-quarts."
+    },
+    {
+        "id": 146,
+        "text": "Et vu le prix du Thermomix, on partira en vacances avec le Thermomix."
+    },
+    {
+        "id": 147,
+        "text": "Thermomix en pendentif."
+    },
+    {
+        "id": 148,
+        "text": "Y a une place pour le Thermomix dans le canapé."
+    },
+    {
+        "id": 149,
+        "text": "Thermomix multifunction."
+    },
+    {
+        "id": 150,
+        "text": "T'as le Thermomix facile ce soir..."
+    },
+    {
+        "id": 151,
+        "text": "Merci pour le Thermomix."
+    },
+    {
+        "id": 152,
+        "text": "Des pastèques dans le Thermomix."
+    },
+    {
+        "id": 153,
+        "text": "Thermomix et bac récupérateur de gras."
+    },
+    {
+        "id": 154,
+        "text": "Vidangé le Thermomix chez le garagiste."
+    },
+    {
+        "id": 155,
+        "text": "Dans la cuisine, il y a un poster de Thermomix."
+    },
+    {
+        "id": 156,
+        "text": "Et même 200 recettes gratuites disponibles dans l'onglet « Collection ». Pour débloquer les 500 recettes du véhicule, il faut souscrire à un abonnement de 36 € par an."
+    },
+    {
+        "id": 157,
+        "text": "Le magazine de tuning de caisse de voiture."
+    },
+    {
+        "id": 158,
+        "text": "Devant le Lidl de Tourcoing, on va faire des tours de ronds-points."
+    },
+    {
+        "id": 159,
+        "text": "Extra méga tuning."
+    },
+    {
+        "id": 160,
+        "text": "100 % tuning."
+    },
+    {
+        "id": 161,
+        "text": "Prends la route, masse ma biroute."
+    },
+    {
+        "id": 162,
+        "text": "Route. Route. Route. Route. Route. Route. Route. Rout-biroute."
+    },
+    {
+        "id": 163,
+        "text": "Prends la route."
+    },
+    {
+        "id": 164,
+        "text": "Dégueule pas sur l'appuie-tête."
+    },
+    {
+        "id": 165,
+        "text": "Prout. Prout. Prout. Prout. Le magazine de tuning de caisse de voiture."
+    },
+    {
+        "id": 166,
+        "text": "Extra méga giga ultra tuning."
+    },
+    {
+        "id": 167,
+        "text": "Le magazine où il y a du tuning et des gros seins."
+    },
+    {
+        "id": 168,
+        "text": "Seins. Seins. Seins. Seins. Seins. Seins. Seins. Gros seins."
+    },
+    {
+        "id": 169,
+        "text": "Ma femme est extra conne. Ma caisse est en carbone."
+    },
+    {
+        "id": 170,
+        "text": "Extra-extra-extra-extra-extra-extra-extra-gros seins."
+    },
+    {
+        "id": 171,
+        "text": "Extra-extra-extra-extra-extra-extra-prends la route."
+    },
+    {
+        "id": 172,
+        "text": "Direction le camping du bonheur, oublie pas ton débardeur."
+    },
+    {
+        "id": 173,
+        "text": "STUDIO BASTIANO CORE"
+    },
+    {
+        "id": 174,
+        "text": "T'étais là quand j'pleurais comme un lâche."
+    },
+    {
+        "id": 175,
+        "text": "Je t'emmène loin d'ici, monte."
+    },
+    {
+        "id": 176,
+        "text": "Escalade la montagne de mon cul, pour voir s'il y a du monde."
+    },
+    {
+        "id": 177,
+        "text": "Tire la chasse, tu perds ma trace."
+    },
+    {
+        "id": 178,
+        "text": "Monte ! Le kiff, ça se provoque."
+    },
+    {
+        "id": 179,
+        "text": "Un plaisir plaisant !"
+    },
+    {
+        "id": 180,
+        "text": "T'es perdu dans ta vie ? Suis les aigles."
+    },
+    {
+        "id": 181,
+        "text": "VIVA BASTIANO"
+    },
+    {
+        "id": 182,
+        "text": "Hyperespace, quand j'tire la chiasse."
+    },
+    {
+        "id": 183,
+        "text": "Brise les règles."
+    },
+    {
+        "id": 184,
+        "text": "Direction l'interdimensfion."
+    },
+    {
+        "id": 185,
+        "text": "J'peux pas m'empêcher d'penser à ton fiak."
+    },
+    {
+        "id": 186,
+        "text": "La nuit, quand je roule vers l'infini et que la ville s'endort."
+    },
+    {
+        "id": 187,
+        "text": "Détends-toi et lâche des caisses."
+    },
+    {
+        "id": 188,
+        "text": "Accoudé au bar, ça renifle la bonne occasion."
+    },
+    {
+        "id": 189,
+        "text": "Sens mes aisselles, odeur faisselle."
+    },
+    {
+        "id": 190,
+        "text": "Je t'aime au futur, au passé et au présent. Le kiff est présent."
+    },
+    {
+        "id": 191,
+        "text": "Ça sent super fort. Ça s'ambiance à fond."
+    },
+    {
+        "id": 192,
+        "text": "Je sors de l'Ibis, ça sent la chaise."
+    },
+    {
+        "id": 193,
+        "text": "Je suis en super forme."
+    },
+    {
+        "id": 194,
+        "text": "Parfum Scorpio. Parfum tigre."
+    },
+    {
+        "id": 195,
+        "text": "Parfum tigre, pipi de félin."
+    },
+    {
+        "id": 196,
+        "text": "Dans la Passat, elle utilise ses mains. Passage de vitesse."
+    },
+    {
+        "id": 197,
+        "text": "Parfum tigre. Ça sent la braise."
+    },
+    {
+        "id": 198,
+        "text": "Y a d'la condensation."
+    },
+    {
+        "id": 199,
+        "text": "Je suis pas sage."
+    },
+    {
+        "id": 200,
+        "text": "Une odeur à couper le souffle."
+    },
+    {
+        "id": 201,
+        "text": "Ça sent la fraise."
+    },
+    {
+        "id": 202,
+        "text": "Parfum tigre !"
+    },
+    {
+        "id": 203,
+        "text": "Parfum tigre, pour les grandes occasions."
+    },
+    {
+        "id": 204,
+        "text": "Parfum Scorpio pour ramener la secrétaire."
+    },
+    {
+        "id": 205,
+        "text": "Ça respire l'intelligence ou quoi."
+    },
+    {
+        "id": 206,
+        "text": "Le kiff est présent."
+    },
+    {
+        "id": 207,
+        "text": "Noël et jour de l'An : célébration."
+    },
+    {
+        "id": 208,
+        "text": "Studio Bastiano pour impressionner la secrétaire."
+    },
+    {
+        "id": 209,
+        "text": "Je t'ai même ramené des croissants."
+    },
+    {
+        "id": 210,
+        "text": "Je te récupère derrière le magasin Gifi."
+    },
+    {
+        "id": 211,
+        "text": "Brocante des magasins hi-fi."
+    },
+    {
+        "id": 212,
+        "text": "Passage de vitesse."
+    },
+    {
+        "id": 213,
+        "text": "Des idées, je gémis."
+    },
+    {
+        "id": 214,
+        "text": "Ça sent la braise."
+    },
+    {
+        "id": 215,
+        "text": "C'est une boîte à bijoux ici ou quoi."
+    },
+    {
+        "id": 216,
+        "text": "Après l'effort, le Roquefort."
+    },
+    {
+        "id": 217,
+        "text": "Passat sécurisée avec Véro bien déguisée."
+    }
 ]

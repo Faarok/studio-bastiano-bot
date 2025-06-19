@@ -52,13 +52,43 @@ export default {
         }
 
         // Commande /quote
-        if (interaction.type === 2 && interaction.data.name === 'quote') {
-            const index = crypto.getRandomValues(new Uint32Array(1))[0] % quotes.length;
-            const quote = quotes[index];
+        if(interaction.type === 2 && interaction.data.name === 'quote')
+        {
+            // const index = crypto.getRandomValues(new Uint32Array(1))[0] % quotes.length;
+            // const quote = quotes[index];
+
+            // return new Response(JSON.stringify({
+            //     type: 4,
+            //     data: { content: quote }
+            // }), { headers: { 'Content-Type': 'application/json' } });
+
+
+
+            // 1. Récupérer les citations déjà utilisées depuis KV
+            const list = await env.USED_QUOTES.list({ prefix: 'used-quote-' });
+            const usedIds = list.keys.map(k => parseInt(k.name.split('used-quote-')[1]));
+
+            // 2. Filtrer les citations non utilisées
+            let unusedQuotes = quotes.filter(q => !usedIds.includes(q.id));
+
+            // 3. Si toutes utilisées, reset la KV (suppression des clés)
+            if(unusedQuotes.length === 0)
+            {
+                // Supprime toutes les clés used-quote-*
+                await Promise.all(list.keys.map(k => env.USED_QUOTES.delete(k.name)));
+                unusedQuotes = quotes; // on repart à zéro
+            }
+
+            // 4. Choisir une citation aléatoire
+            const index = crypto.getRandomValues(new Uint32Array(1))[0] % unusedQuotes.length;
+            const quote = unusedQuotes[index];
+
+            // 5. Marquer la citation comme utilisée dans KV
+            await env.USED_QUOTES.put(`used-quote-${quote.id}`, 'true');
 
             return new Response(JSON.stringify({
                 type: 4,
-                data: { content: quote }
+                data: { content: quote.text }
             }), { headers: { 'Content-Type': 'application/json' } });
         }
 
