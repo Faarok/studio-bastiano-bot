@@ -38,10 +38,17 @@ export default {
             return new Response('Unauthorized', { status: 401 });
         }
 
-        const isValid = await verifyKey(body, signature, timestamp, env.DISCORD_PUBLIC_KEY);
+        if (!env.DISCORD_PUBLIC_KEY) {
+            return new Response('Server misconfiguration: missing public key', { status: 500 });
+        }
 
-        if (!isValid) {
-            return new Response('Invalid request signature', { status: 401 });
+        try {
+            const isValid = await verifyKey(body, signature, timestamp, env.DISCORD_PUBLIC_KEY);
+            if (!isValid) {
+                return new Response('Invalid request signature', { status: 401 });
+            }
+        } catch (e) {
+            return new Response('Error verifying signature: ' + e.message, { status: 500 });
         }
 
         const interaction = JSON.parse(body);
