@@ -54,16 +54,6 @@ export default {
         // Commande /quote
         if(interaction.type === 2 && interaction.data.name === 'quote')
         {
-            // const index = crypto.getRandomValues(new Uint32Array(1))[0] % quotes.length;
-            // const quote = quotes[index];
-
-            // return new Response(JSON.stringify({
-            //     type: 4,
-            //     data: { content: quote }
-            // }), { headers: { 'Content-Type': 'application/json' } });
-
-
-
             // 1. Récupérer les citations déjà utilisées depuis KV
             const list = await env.USED_QUOTES.list({ prefix: 'used-quote-' });
             const usedIds = list.keys.map(k => parseInt(k.name.split('used-quote-')[1]));
