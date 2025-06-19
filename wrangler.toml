@@ -1,0 +1,7 @@
+name = "studio-bastiano-bot"
+main = "src/index.js"
+compatibility_date = "2025-06-17"
+
+[[kv_namespaces]]
+binding = "USED_QUOTES_KV"
+id = "17677ed5c0b14e188dcbb12bcb3d33ee"
