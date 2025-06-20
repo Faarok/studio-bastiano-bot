@@ -83,7 +83,7 @@ export default {
                 type: 4,
                 data: {
                     content: quote.text,
-                    ...arguments(isTTS && { tts: true })    // Injecte tts: true uniquement si nécessaire
+                    ...(isTTS && { tts: true })    // Injecte tts: true uniquement si nécessaire
                 }
             };
 
