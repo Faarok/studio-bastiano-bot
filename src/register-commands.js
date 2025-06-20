@@ -6,6 +6,14 @@ const commands = [
     {
         name: 'quote',
         description: 'Envoie une citation forte et persévérante.',
+        "options": [
+            {
+                "name": "tts",
+                "description": "Envoyer la citation avec TSS",
+                "type": 5,  // 5 = boolean
+                "required": false
+            }
+        ]
     },
 ];
 

@@ -76,10 +76,20 @@ export default {
             // 5. Marquer la citation comme utilisée dans KV
             await env.USED_QUOTES.put(`used-quote-${quote.id}`, 'true');
 
-            return new Response(JSON.stringify({
+            const ttsOption = interaction.data.options?.find(opt => opt.name === 'tts');
+            const isTTS = ttsOption?.value === true;
+
+            const responseData = {
                 type: 4,
-                data: { content: quote.text }
-            }), { headers: { 'Content-Type': 'application/json' } });
+                data: {
+                    content: quote.text,
+                    ...arguments(isTTS && { tts: true })    // Injecte tts: true uniquement si nécessaire
+                }
+            };
+
+            return new Response(JSON.stringify(responseData), {
+                headers: { 'Content-Type': 'application/json' }
+            });
         }
 
         return new Response('Unknown interaction', { status: 400 });
